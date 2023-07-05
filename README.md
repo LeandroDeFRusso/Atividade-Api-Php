@@ -1,11 +1,11 @@
-# Atividade de Sistema de Gerenciamento de Tarefas (API)
+## Atividade de Sistema de Gerenciamento de Tarefas (API)
  
 Segue abaixo o link do video demonstrando a atividade sendo realizada conforme solicitada:
-https://youtu.be/yLlyCIzIhPU
 
  Vídeo da Atividade:
 
 [![Prévia do Vídeo](https://img.youtube.com/vi/yLlyCIzIhPU/0.jpg)](https://youtu.be/yLlyCIzIhPU)
+https://youtu.be/yLlyCIzIhPU
 
 Clique na imagem acima para assistir ao vídeo da atividade.
 
